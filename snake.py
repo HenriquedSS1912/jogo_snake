@@ -1,7 +1,6 @@
 import tkinter as tk
 from random import randint
-from PIL import Image
-from PIL import ImageTk
+from PIL import Image, ImageTk
 
 
 
